@@ -62,7 +62,7 @@ pip install streamlit pandas numpy matplotlib seaborn
 ```
 
 ### 2. Setup Files
-* Place your `games.csv` dataset and the generated `app.py` script inside the same folder.
+* Place your `games.csv` dataset and the generated `streamlit_app.py` script inside the same folder.
 
 ### 3. Start the Server
 Run the following command in your terminal/command prompt from within that directory:
