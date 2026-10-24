@@ -70,4 +70,9 @@ Run the following command in your terminal/command prompt from within that direc
 streamlit run app.py
 ```
 
+### 4. Test the app on streamlit cloud:
+visit this link to use app live online:
+```bash[
+streamlit run app.py](https://pseb-taskchessgameanalysis-exjsdh9r38xdwxmhuaaf4c.streamlit.app/)
+```
 Your default browser will automatically launch and open the app at `http://localhost:8501`.
