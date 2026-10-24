@@ -71,6 +71,8 @@ streamlit run app.py
 ```
 Your default browser will automatically launch and open the app at `http://localhost:8501`.### 4. Test the App on Streamlit Cloud
 
+### 4. Test the App on Streamlit Cloud
+
 Visit the link below to use the app live online:
 
-**[Launch Chess Game Analysis App](https://pseb-taskchessgameanalysis-exjsdh9r38xdwxmhuaaf4c.streamlit.app/)**
+<a href="https://pseb-taskchessgameanalysis-exjsdh9r38xdwxmhuaaf4c.streamlit.app/" target="_blank" rel="noopener noreferrer">🚀 Launch Chess Game Analysis App</a>
