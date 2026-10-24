@@ -72,7 +72,7 @@ streamlit run app.py
 
 ### 4. Test the app on streamlit cloud:
 visit this link to use app live online:
-```bash[
-streamlit run app.pyhttps://pseb-taskchessgameanalysis-exjsdh9r38xdwxmhuaaf4c.streamlit.app/
+```bash
+https://pseb-taskchessgameanalysis-exjsdh9r38xdwxmhuaaf4c.streamlit.app/
 ```
 Your default browser will automatically launch and open the app at `http://localhost:8501`.
